@@ -1,10 +1,12 @@
-# 20.06.21
+# 27.01.22
 Read me
 
-deployed at https://g-bot987.github.io/20.06.21/
+A simple Python Password generator
+
+
 
 ## screenshot 
-![](img/passwordgenerator.PNG)
+
 
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
